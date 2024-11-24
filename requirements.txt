@@ -1,0 +1,12 @@
+streamlit
+pandas
+yfinance
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor
+numpy
+plotly.graph_objects 
+plotly.express
+hashlib
+sqlite3
